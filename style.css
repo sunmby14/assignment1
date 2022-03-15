@@ -17,3 +17,7 @@ div p {
 div+p {
     color: green;
 }
+
+.ame {
+    float: right;
+}
